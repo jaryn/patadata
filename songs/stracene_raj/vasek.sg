@@ -1,0 +1,53 @@
+\selectlanguage{czech}
+\songcolumns{2}
+\beginsong{Vašek}
+  [by={Stracené ráj}]
+
+  \cover
+  \gtab{G}{320003}
+  \gtab{C}{X32010}
+  \gtab{D}{XX0232}
+
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics \[D] \[A] \[A] \[D]}
+  \end{verse*}
+
+  \begin{verse}
+    \[D]Kdež se Vašek narodil, bel deset kilo t\[A]ěžké,
+    a kdež mo šňuro ostřehle šil z porodnice pě-pě-pěške.
+
+    \[D]Za měsíc pa abecedo nacpal si do m\[A]ozka,
+    za rok celó násobilko, jak kdež bičem mr-mr-mrská.
+
+    \[D]Za dva roke na zahradě s koněm bráne vo\[A]bracel,
+    po třech letech citil tlak jak kdež pěkny děvče oviděl.
+  \end{verse}
+
+  \begin{chorus}
+    \[D]Vašek bel klok, dobře ževené,
+    zrodil se na Hané, kde takovi só vš\[A]eci,
+
+    tělo samé sval, prase posnidal,
+    o nás tožiž nésó vůbec žádní chlapi m\[D]ěci.
+  \end{chorus}
+
+  \musicnote{\Solo: \nolyrics \[D A A D] break Moooo}
+
+  \begin{verse}
+    \[D]V patnácti se rozčilel a béka přes plot \[A]hodil
+    kdež pak dostal choť na pivo, tak celó bečko ve-vepil.
+
+    \[D]V dvaciti se oženil -- měl dcero a tře kloke,
+    kdež pak přešla zobatá, měl stovko a dva roke.
+  \end{verse}
+
+  \begin{chorus}
+    \[D]Vašek bel klok, dobře \[A]ževené,
+    zrodil se na Hané, kde takovi só všeci
+
+    \[D]tělo samé sval, prase posnidal,
+    o nás tožiž nésó vůbec žádní chlapi měci.
+  \end{chorus}
+
+  \musicnote{\Outro: \nolyrics \[D A A D] \rep{2}}
+\endsong
